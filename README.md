@@ -1,0 +1,2 @@
+# Programacion_dinamica_gestor_inventario
+tarea 4 programacion dinamica
